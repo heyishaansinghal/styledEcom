@@ -5,7 +5,7 @@ export const ProductStyle = styled.div `
     display: flex;
     flex-direction: column;
     position: relative;
-    width: auto;
+    width: 300px;
     padding: 1.5rem;
 
     img{
