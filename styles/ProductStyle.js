@@ -5,11 +5,12 @@ export const ProductStyle = styled.div `
     display: flex;
     flex-direction: column;
     position: relative;
+    width: auto;
     padding: 1.5rem;
 
     img{
-        width: 80%;
-        max-height: 300px;
+        width: auto;
+        height: 300px;
         cursor: pointer;
     }
 
