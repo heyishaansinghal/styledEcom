@@ -9,7 +9,6 @@ export const ProductStyle = styled.div `
     padding: 1.5rem;
 
     img{
-        width: auto;
         height: 300px;
         cursor: pointer;
     }
