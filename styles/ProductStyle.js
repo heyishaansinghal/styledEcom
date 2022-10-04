@@ -9,7 +9,7 @@ export const ProductStyle = styled.div `
 
     img{
         width: 80%;
-        height: 300px;
+        max-height: 300px;
         cursor: pointer;
     }
 
